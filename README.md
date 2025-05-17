@@ -17,5 +17,7 @@ Berisi data meentah yang didapat melalui https://www.bps.go.id/id/statistics-tab
 Data BPS yang diolah secara kasar untuk memudahkan _readability_
 ### 4. data_deforestasi.csv
 Sumber data yang digunakan dalam perhitungan dan pengkodingan
-### 5. main.py
-Kode sumber yang secara otomatis mengolah data_deforestasi.csv
+### 5. province.py
+Kode sumber yang secara otomatis mengolah data_deforestasi.csv pada tiap provinsi dan menyajikannya menjadi diagram batang
+### 6. prediction.py
+Kode sumber untuk menampilkan prediksi dari deforestasi di Indonesia
